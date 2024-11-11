@@ -1,6 +1,8 @@
 import { Flex, Image, Link } from "@chakra-ui/react";
 import { Link as AnchorLink } from "react-scroll";
 
+import { contentMaxWidth } from "../pages/Home";
+
 import imageBgDesktop from "../static/images/nav_background_desktop.png";
 import imageBgMobile from "../static/images/nav_background_mobile.png";
 import imageName from "../static/images/nav_name.png";
@@ -59,11 +61,11 @@ const Navigation = () => {
 
     return (
         <Flex flexDirection="column" gap={10} bgImage={bgImage} bgRepeat="no-repeat" bgSize="cover" bgPos="center bottom">
-            <Flex justifyContent="center" gapX={{base: 100, xl: 200}} flexWrap="wrap">
+            <Flex w="full" maxW={contentMaxWidth} m="auto" justifyContent="center" gapX={{base: 50, xl: 100}} flexWrap="wrap">
                 <Image w={{base: 300, sm: 400, xl: 500}} mt={10} src={imageName} objectFit="contain" />
-                <Image w={{base: 250, sm: 300, xl: 400}} src={imagePhoto} objectFit="contain" />
+                <Image w={{base: 250, sm: 300, xl: 400}} ml={20} src={imagePhoto} objectFit="contain" />
             </Flex>
-            <Flex alignItems="flex-end" justifyContent="center" gap={5} flexWrap="wrap" mb={5}>
+            <Flex w="full" maxW={contentMaxWidth} m="auto" alignItems="flex-end" justifyContent="center" gap={5} flexWrap="wrap" mb={5}>
                 {navItems.map((item) => {
 
                     const imageElement = (
