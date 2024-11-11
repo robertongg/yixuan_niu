@@ -1,16 +1,26 @@
 {
   "files": {
     "main.css": "/yixuan_niu/static/css/main.f855e6bc.css",
-    "main.js": "/yixuan_niu/static/js/main.1358efbc.js",
+    "main.js": "/yixuan_niu/static/js/main.b5d81ea3.js",
     "static/js/453.0eda509d.chunk.js": "/yixuan_niu/static/js/453.0eda509d.chunk.js",
-    "static/media/logo.svg": "/yixuan_niu/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/nav_background_desktop.png": "/yixuan_niu/static/media/nav_background_desktop.0dd53dc78b3015266bc9.png",
+    "static/media/nav_background_mobile.png": "/yixuan_niu/static/media/nav_background_mobile.3e12e07e3fd00e8282b2.png",
+    "static/media/nav_photo.png": "/yixuan_niu/static/media/nav_photo.2a9634434760aa336ba7.png",
+    "static/media/nav_name.png": "/yixuan_niu/static/media/nav_name.b3f3e44adce3e9fc0575.png",
+    "static/media/nav_item_faq.png": "/yixuan_niu/static/media/nav_item_faq.9660f69f1a4ef151f9bb.png",
+    "static/media/nav_item_about_us.png": "/yixuan_niu/static/media/nav_item_about_us.5f3a2e8f1260494f1901.png",
+    "static/media/nav_item_photos.png": "/yixuan_niu/static/media/nav_item_photos.7fd6c0d664cb30d0696e.png",
+    "static/media/nav_item_floorplan.png": "/yixuan_niu/static/media/nav_item_floorplan.c8eac2b03179f8fc7a1a.png",
+    "static/media/nav_item_rsvp.png": "/yixuan_niu/static/media/nav_item_rsvp.b933045a7a31571906d8.png",
+    "static/media/nav_item_menu.png": "/yixuan_niu/static/media/nav_item_menu.e56346e93d7d33bef9c6.png",
+    "static/media/nav_item_sequence.png": "/yixuan_niu/static/media/nav_item_sequence.6f82a4457ab593ba9321.png",
     "index.html": "/yixuan_niu/index.html",
     "main.f855e6bc.css.map": "/yixuan_niu/static/css/main.f855e6bc.css.map",
-    "main.1358efbc.js.map": "/yixuan_niu/static/js/main.1358efbc.js.map",
+    "main.b5d81ea3.js.map": "/yixuan_niu/static/js/main.b5d81ea3.js.map",
     "453.0eda509d.chunk.js.map": "/yixuan_niu/static/js/453.0eda509d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.1358efbc.js"
+    "static/js/main.b5d81ea3.js"
   ]
 }
