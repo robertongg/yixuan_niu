@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/yixuan_niu/static/css/main.f855e6bc.css",
-    "main.js": "/yixuan_niu/static/js/main.c5cb83a2.js",
+    "main.js": "/yixuan_niu/static/js/main.2c3a2966.js",
     "static/js/453.0eda509d.chunk.js": "/yixuan_niu/static/js/453.0eda509d.chunk.js",
     "static/media/nav_background_desktop.png": "/yixuan_niu/static/media/nav_background_desktop.0dd53dc78b3015266bc9.png",
     "static/media/nav_background_mobile.png": "/yixuan_niu/static/media/nav_background_mobile.3e12e07e3fd00e8282b2.png",
     "static/media/photos_photos.png": "/yixuan_niu/static/media/photos_photos.b3b2ff5e77bd75e85a57.png",
     "static/media/abousus_background.png": "/yixuan_niu/static/media/abousus_background.7d7027300f159bb44b78.png",
+    "static/media/sequence_content.png": "/yixuan_niu/static/media/sequence_content.78e6846ba0d547aafc68.png",
     "static/media/nav_photo.png": "/yixuan_niu/static/media/nav_photo.2a9634434760aa336ba7.png",
     "static/media/aboutus_content.png": "/yixuan_niu/static/media/aboutus_content.ca185eb39553deb19ea0.png",
     "static/media/nav_name.png": "/yixuan_niu/static/media/nav_name.b3f3e44adce3e9fc0575.png",
@@ -20,11 +21,11 @@
     "static/media/nav_item_sequence.png": "/yixuan_niu/static/media/nav_item_sequence.6f82a4457ab593ba9321.png",
     "index.html": "/yixuan_niu/index.html",
     "main.f855e6bc.css.map": "/yixuan_niu/static/css/main.f855e6bc.css.map",
-    "main.c5cb83a2.js.map": "/yixuan_niu/static/js/main.c5cb83a2.js.map",
+    "main.2c3a2966.js.map": "/yixuan_niu/static/js/main.2c3a2966.js.map",
     "453.0eda509d.chunk.js.map": "/yixuan_niu/static/js/453.0eda509d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.c5cb83a2.js"
+    "static/js/main.2c3a2966.js"
   ]
 }
