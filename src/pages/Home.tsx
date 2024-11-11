@@ -2,6 +2,7 @@ import { Flex } from "@chakra-ui/react";
 import AboutUs from "../sections/AboutUs";
 import Navigation from "../sections/Navigation";
 import Photos from "../sections/Photos";
+import Sequence from "../sections/Sequence";
 
 export const contentMaxWidth = {
     base: 940,
@@ -16,6 +17,7 @@ const Home = () => {
             <Navigation/>
             <AboutUs/>
             <Photos/>
+            <Sequence/>
         </Flex>
     );
 }

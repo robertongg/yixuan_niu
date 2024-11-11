@@ -37,7 +37,7 @@ const navItems = [
     }, {
         image: imageNavItem_Sequence,
         type: "anchor",
-        href: ""
+        href: "sequence"
     }, {
         image: imageNavItem_Floorplan,
         type: "anchor",
@@ -65,7 +65,7 @@ const Navigation = () => {
                 <Image w={{base: 300, sm: 400, xl: 500}} mt={10} src={imageName} objectFit="contain" />
                 <Image w={{base: 250, sm: 300, xl: 400}} ml={20} src={imagePhoto} objectFit="contain" />
             </Flex>
-            <Flex w="full" maxW={contentMaxWidth} m="auto" alignItems="flex-end" justifyContent="center" gap={5} flexWrap="wrap" mb={5}>
+            <Flex w="full" maxW={contentMaxWidth} m="auto" alignItems="flex-end" justifyContent="center" gap={5} flexWrap="wrap" mb={5} px={{base: 4, lg: 0}}>
                 {navItems.map((item) => {
 
                     const imageElement = (

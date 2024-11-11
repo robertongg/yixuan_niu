@@ -8,19 +8,17 @@ const Photos = () => {
     const morePhotosLink = "";
 
     return (
-        <>
-            <Flex id="photos"
-                w="full" maxW={contentMaxWidth}
-                m="auto" pt={sectionGap} px={4}
-                justifyContent="center"
-                position="relative"
-            >
-                <Image src={imagePhotos} />
-                <Link href={morePhotosLink}>
-                    <Image src={imageMorePhotos} position="absolute" bottom="0" left="0" w="calc(100% * 0.2)" />
-                </Link>
-            </Flex>
-        </>
+        <Flex id="photos"
+            w="full" maxW={contentMaxWidth}
+            m="auto" pt={sectionGap} px={4}
+            justifyContent="center"
+            position="relative"
+        >
+            <Image src={imagePhotos} />
+            <Link href={morePhotosLink}>
+                <Image src={imageMorePhotos} position="absolute" bottom="0" left="0" w="calc(100% * 0.2)" />
+            </Link>
+        </Flex>
     );
 }
 
