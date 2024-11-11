@@ -31,11 +31,11 @@ const navItems = [
         type: "anchor",
         href: "aboutus"
     }, {
-        image: imageNavItem_Sequence,
-        type: "anchor",
-        href: ""
-    }, {
         image: imageNavItem_Photos,
+        type: "anchor",
+        href: "photos"
+    }, {
+        image: imageNavItem_Sequence,
         type: "anchor",
         href: ""
     }, {
