@@ -19,7 +19,7 @@ const AboutUs = () => {
                     bgSize="contain" bgPos="top right"
                 ></Box>
             </Box>
-            <Flex w="full" maxW={contentMaxWidth} m="auto" justifyContent="center" position="relative" zIndex={1}>
+            <Flex w="full" maxW={contentMaxWidth} m="auto" justifyContent="center" px={4} position="relative" zIndex={1}>
                 <Image src={imageContent} w={{base: 500, md: 650, lg: 800, xl: 1000}} mr={{base: 0, md: 100}} />
             </Flex>
         </Box>
