@@ -78,7 +78,7 @@ const Navigation = () => {
 
                     if (item.type.toUpperCase() === "ANCHOR") {
                         return (
-                            <AnchorLink to={item.href} smooth={true} duration={1000}>
+                            <AnchorLink to={item.href} smooth={true} duration={750}>
                                 {imageElement}
                             </AnchorLink>
                         )
