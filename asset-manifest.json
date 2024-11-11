@@ -1,11 +1,13 @@
 {
   "files": {
     "main.css": "/yixuan_niu/static/css/main.f855e6bc.css",
-    "main.js": "/yixuan_niu/static/js/main.b5d81ea3.js",
+    "main.js": "/yixuan_niu/static/js/main.d310a0df.js",
     "static/js/453.0eda509d.chunk.js": "/yixuan_niu/static/js/453.0eda509d.chunk.js",
     "static/media/nav_background_desktop.png": "/yixuan_niu/static/media/nav_background_desktop.0dd53dc78b3015266bc9.png",
     "static/media/nav_background_mobile.png": "/yixuan_niu/static/media/nav_background_mobile.3e12e07e3fd00e8282b2.png",
+    "static/media/abousus_background.png": "/yixuan_niu/static/media/abousus_background.7d7027300f159bb44b78.png",
     "static/media/nav_photo.png": "/yixuan_niu/static/media/nav_photo.2a9634434760aa336ba7.png",
+    "static/media/aboutus_content.png": "/yixuan_niu/static/media/aboutus_content.ca185eb39553deb19ea0.png",
     "static/media/nav_name.png": "/yixuan_niu/static/media/nav_name.b3f3e44adce3e9fc0575.png",
     "static/media/nav_item_faq.png": "/yixuan_niu/static/media/nav_item_faq.9660f69f1a4ef151f9bb.png",
     "static/media/nav_item_about_us.png": "/yixuan_niu/static/media/nav_item_about_us.5f3a2e8f1260494f1901.png",
@@ -16,11 +18,11 @@
     "static/media/nav_item_sequence.png": "/yixuan_niu/static/media/nav_item_sequence.6f82a4457ab593ba9321.png",
     "index.html": "/yixuan_niu/index.html",
     "main.f855e6bc.css.map": "/yixuan_niu/static/css/main.f855e6bc.css.map",
-    "main.b5d81ea3.js.map": "/yixuan_niu/static/js/main.b5d81ea3.js.map",
+    "main.d310a0df.js.map": "/yixuan_niu/static/js/main.d310a0df.js.map",
     "453.0eda509d.chunk.js.map": "/yixuan_niu/static/js/453.0eda509d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.b5d81ea3.js"
+    "static/js/main.d310a0df.js"
   ]
 }
